@@ -1,0 +1,11 @@
+row_id,group,board_name,where_it_is,doing_now,ball_in_court,focus_today,next_task_1to2hr,due,notes,sort
+m01,Manuscript,Seagrass light paper,Draft,Writing,yes,yes,Write Methods section 2.3,2027-01-15,Target journal: Estuaries and Coasts,10
+m02,Manuscript,Coauthor review paper,Co-author review,,no,,,,Waiting on comments from co-authors,20
+s01,Student,AB - Fish and offshore wind,Ch. 1 of 1,Analysis,yes,,Read Ch. 1 Results draft,,Committee meeting in March,10
+s02,Student,CD - Shark diets,Ch. 2 of 3,Writing,no,,,,,20
+g01,Grant,Coastal resilience award,Active,Field planning,yes,yes,Book field boats for June,2026-12-31,,10
+g02,Grant,New proposal,Proposal,Writing,yes,,Draft budget justification,2027-02-01,,20
+t01,Teaching,BIO 210 Ecology,Week 12 of 14,Lecture prep,yes,yes,Finish Thursday slides,,,10
+c01,Consulting,Client modeling project,Active,Model building,yes,,Send monthly invoice,,,10
+a01,Admin,Email,Daily,,yes,,Inbox triage (30 min at 3:30 pm),,,10
+x01,Retired,Old paper (dropped),,,,,,,,99

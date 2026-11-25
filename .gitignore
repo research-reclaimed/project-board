@@ -1,0 +1,10 @@
+# Your real rows name students and collaborators. Keep them in your Google Sheet
+# or in private/, never here.
+private/
+*.xlsx
+_qa/
+.DS_Store
+~$*
+.env
+*.key
+*.pem
